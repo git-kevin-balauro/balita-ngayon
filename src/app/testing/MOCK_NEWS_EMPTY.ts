@@ -1,0 +1,9 @@
+export const MOCK_NEWS_EMPTY = {
+    "pagination": {
+        "limit": 25,
+        "offset": 0,
+        "count": 0,
+        "total": 0
+    },
+    "data": []
+}
